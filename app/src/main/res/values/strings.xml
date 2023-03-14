@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="accelerometer_data">Accelerometer Data</string>
+</resources>
